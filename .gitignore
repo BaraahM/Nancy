@@ -1,4 +1,13 @@
 #python cache
 __pycache__/
 *.py[cod]
-8$py.class
+*$py.class
+
+pelosi_trades.json
+pelosi_tracker.log
+
+.DS_Store
+
+venv/
+env/
+.env
