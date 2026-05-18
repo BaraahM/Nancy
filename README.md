@@ -17,7 +17,9 @@ it:
 Install the Pushcut app, make a shortcut, then update PUSHCUT_URL in config.py with your API key.
 
 ### Running 
-use the command: python nancytracker.py
+```
+python nancytracker.py
+```
 It'll check every 4 hours and log everything to ~/pelosi_tracker.log so you can see what's happening.
 
 ### Customizing
