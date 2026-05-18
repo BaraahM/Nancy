@@ -29,10 +29,5 @@ _Important:_ Replace the placeholder values in config.py with your real API keys
 1. UR_PUSHCUT_API_KEY - Get this from the Pushcut app
 2. OUR_SHORTCUT_NAME - Whatever you named your shortcut
 
-Files
-nancytracker.py - The main script
-config.py - Settings and API keys
-requirements.txt - What Python packages you need
-
 ## Heads Up
 Because this relies on web scraping QuiverQuant, it depends on their current website structure. If they update their UI or change their tables, the scraper might need a quick tweak to find the right data again.
