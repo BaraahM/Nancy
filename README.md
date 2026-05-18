@@ -25,7 +25,7 @@ It'll check every 4 hours and log everything to ~/pelosi_tracker.log so you can 
 ### Customizing
 **Want to change how often it checks? Edit config.py**
 
-__ Important: Replace the placeholder values in config.py with your real API keys:__
+_Important:_ Replace the placeholder values in config.py with your real API keys:
 1. UR_PUSHCUT_API_KEY - Get this from the Pushcut app
 2. OUR_SHORTCUT_NAME - Whatever you named your shortcut
 
